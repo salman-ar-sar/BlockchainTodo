@@ -9,7 +9,7 @@ How to run it:
 3. Run npm install in the project file directory
 4. Run the command npm run dev. Then will open a new window in your browser.
 5. In Ganache, take the private key of the first address and add it to MetaMask.
-6. In MetaMask you have to add a new connection. The URP URL will be in Ganache.
+6. In MetaMask you have to add a new connection. The URL will be in Ganache.
 7. Finally, you can add and complete a task using a blockchain application.
 
 Credits:
